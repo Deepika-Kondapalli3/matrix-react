@@ -1,0 +1,22 @@
+
+.matrix {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+
+  .row {
+    display: flex;
+  }
+
+  .box {
+    width: 100px;  
+    height: 100px;  
+    border: 2px solid black; 
+    cursor: pointer;
+    margin: 2px; 
+  }
+  
